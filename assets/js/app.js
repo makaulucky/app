@@ -205,7 +205,7 @@ let footer = $(`
     </svg>
     </a>
 
-    <a class="social-button linkedin" href="https://www.linkedin.com/me/makaulucky" target="_blank" >
+    <a class="social-button linkedin" href="https://www.linkedin.com/in/makaulucky" target="_blank" >
     <!-- svg code for linkedin icon -->
       <svg class="linkedin-icon-footer" xmlns="http://www.w3.org/2000/svg" width="35" viewBox="0 0 24 24" fill="#0e76a8"
         stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="feather feather-linkedin">
@@ -217,7 +217,7 @@ let footer = $(`
 
 
 
-    <a class="social-button instagram" href="https://www.instagram.com/its_makaujr" target="_blank" >
+    <a class="social-button instagram" href="https://www.instagram.com/lucky.makau" target="_blank" >
     <!-- svg code for instagram icon -->
       <svg class="instagram-icon-footer" x="0px" y="0px" viewBox="0 0 202.5 202.5"
         style="enable-background:new 0 0 202.5 202.5;">
